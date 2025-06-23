@@ -7,7 +7,7 @@ How to Download Total Defense on Windows, Mac, and Mobile Devices?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://iolosystemmechanicdownload.readthedocs.io/en/latest/_images/download.png
+.. image:: download.png
    :alt: My Project Logo
    :width: 400px
    :align: center
