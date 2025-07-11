@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://i-downloadsoftwares.com/">
+
 How to Download Total Defense on Windows, Mac, and Mobile Devices?
 ============================================
 .
